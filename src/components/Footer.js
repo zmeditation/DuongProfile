@@ -9,7 +9,7 @@ function Footer() {
           <h3>Address: to 8 to hieu thanh pho son la</h3>
         </Col>
         <Col md="4" className="footer-body">
-          <h3>Phone Number: +84 814538048</h3>
+          <h3>Phone Number: +1 662 598 1591</h3>
         </Col>
         <Col md="4" className="footer-body">
           <h3>Postal/ZIP code: 360000</h3>
