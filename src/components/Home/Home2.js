@@ -2,9 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillMail
-} from "react-icons/ai";
+import { AiFillMail } from "react-icons/ai";
 
 function Home2() {
   return (
@@ -21,7 +19,10 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple">
+                  {" "}
+                  ReactJs, VueJs, NextJs, C++, Javascript and Python.{" "}
+                </b>
               </i>
               <br />
               <br />
@@ -29,9 +30,7 @@ function Home2() {
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b>
+                <b className="purple">Blockchain Technologies.</b>
               </i>
               <br />
               <br />
